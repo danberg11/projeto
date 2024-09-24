@@ -117,6 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Idade para as nossas equipes:
+
+Sub-9 para atletas de 8 e 9 anos.
+Sub-11 para atletas de 10 e 11 anos.
+Sub-13 para atletas de 12 e 13 anos.
+Sub-15 para atletas de 14 e 15 anos.
+Sub-17 para atletas de 16 e 17 anos.
+Sub-20 para atletas de 18, 19 e 20 anos.</value>
+  </data>
   <data name="label5.Text" xml:space="preserve">
     <value>Bem-vindo ao nosso time, onde a paixão pelo futebol se une ao compromisso de formar novos talentos! 
 Nosso objetivo é desenvolver jogadores não apenas habilidosos, mas também cidadãos conscientes e disciplinados. 
